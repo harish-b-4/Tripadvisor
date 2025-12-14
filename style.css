@@ -941,7 +941,7 @@ body {
   }
 
   .browsed-theme__images::-webkit-scrollbar {
-    display: none;
+    display: none !important;
   }
 
 
