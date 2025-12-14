@@ -940,7 +940,7 @@ body {
     color: #fff;
   }
 
-  .browsed-theme__img::-webkit-scrollbar {
+  .browsed-theme__images::-webkit-scrollbar {
     display: none;
   }
 
